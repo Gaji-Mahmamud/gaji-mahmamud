@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<p align="center">
-  <img src="https://api.boot.dev/v1/users/public/84f74aa0-37bc-4e02-875e-abed8089b164/thumbnail" >
-</p>
-
 <!--
 **Gaji-Mahmamud/gaji-mahmamud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
